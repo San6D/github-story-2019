@@ -1,0 +1,25 @@
+#page1header {
+    background-color: #006600;
+    }
+
+body {
+    padding-left: 2em;
+    padding-right: 2em;
+    border: 1px solid black;
+}    
+    
+h1 {
+    color: white;
+    padding: 25px 50px;
+    }
+    
+#word1 {
+    font-style: italic;
+    font-size: large;
+    }
+
+#ch1ParIndent {
+    text-indent: 2em;
+    text-align: justify;
+    line-height: 1.6;
+    }
