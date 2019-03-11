@@ -9,7 +9,7 @@ Story of the spring time preparation of a player and team for upcoming summer se
 
 
 
-<<<<<<< HEAD
+## Github Webpages
 Use link to view Github Pages (https://san6d.github.io/github-story-2019/)
 
 
