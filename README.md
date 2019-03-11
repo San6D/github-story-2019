@@ -9,10 +9,14 @@ Story of the spring time preparation of a player and team for upcoming summer se
 
 
 
+<<<<<<< HEAD
 Use link to view Github Pages (https://san6d.github.io/github-story-2019/)
 
 
 You can use the [editor on GitHub](https://san6d.github.io/github-story-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+=======
+You can use the [editor on GitHub](https://raw.githubusercontent.com/San6D/github-story-2019/master/README.md) to maintain and preview the content for your website in Markdown files.
+>>>>>>> d31effc475381ac492f1ee02e86acf21b93092ff
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
