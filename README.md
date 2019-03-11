@@ -4,7 +4,11 @@
 Story of the spring time preparation of a player and team for upcoming summer season
 
 ##Chapters:
+<<<<<<< HEAD
 [Chapter 1 Pre-Season Training](chapter01.md)
+=======
+[Chapter 1 Pre-Season Training](chapter01.html)
+>>>>>>> 1dbd61569f766fa8a70464f65cdda5c86e8eb7b0
 
 
 
