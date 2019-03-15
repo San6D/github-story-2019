@@ -6,6 +6,7 @@ Story of the spring time preparation of a player and team for upcoming summer se
 ##Chapters:
 [Chapter 1 Pre-Season Training](chapter01.md)
 
+[Chapter 2 Hard Work](chapter02.md)
 
 
 
