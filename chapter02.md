@@ -12,4 +12,7 @@ Week by week players are brought through structured pre-season training sessions
 Then comes the strength and conditioning work to finish off each session.  Hard work on the muscles.  Build and strengthen them up.  It not easy work.  It not enjoyable work.  But all participate willingly as they know this is in their interest to do, even if it means pain especially the next day!! _No Pain No Gain_!!
 
 
+
+[Chapter 1 Pre-Season Training](chapter01.md)
+
 [Chapter 3 The EndGame](chapter03.md)
