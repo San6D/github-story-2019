@@ -8,3 +8,7 @@ The show of strength and support for each other through the tough and gruelling 
 The earlier weeks would have started with more fitness work, the later weeks would have moved on to football work and drills.  Each with the _EndGame_ in mind - the upcoming season.  With all the work done, the next step is succeed as a team in the league.
 
 With the first league game looming, all players are getting excited and are optimistic about what is to come.  The dynamics of the team have been ironed out.  What players play where.  What formations the team can play.  What the aim and goal is for the team - play well and win as a united front!
+
+
+
+[Chapter 2 Hard Work](chapter02.md)
