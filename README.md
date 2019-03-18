@@ -9,6 +9,8 @@ Story of the spring time preparation of a player and team for upcoming summer se
 
 [Chapter 2 Hard Work](chapter02.md)
 
+[Chapter 3 The EndGame](chapter03.md)
+
 
 
 ## Github Webpages
