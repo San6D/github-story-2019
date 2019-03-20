@@ -1,3 +1,0 @@
-# Alternative Ending
-## The Injury
-
